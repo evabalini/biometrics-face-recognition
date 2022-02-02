@@ -7,7 +7,8 @@ Four face recognition systems based on:
 - Principal Component Analysis (Eigenfaces)
 - Linear Discriminant Analysis (Fisherfaces)
 - Local Binary Pattern (LBP) 
-- Deep learning 
+- Deep learning (siamese networks)
+
 were implemented, tested, and evaluated.
 
 ### Datasets
